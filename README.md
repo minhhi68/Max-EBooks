@@ -1,6 +1,6 @@
 #### Max-EBooks
 The online bookstore where books are published publicly. Creators &amp; readers can share their works over the platform.
-Max-EBooks is the website made for those people who find their interests in reading. Books are shared publicly and you cannot  freely choose which one fits you the most. You can publish your E-BOOKS immediately in just a single touch and share them with your friends. Our online library has an enormous mission to bring people together by using the human knowledge. You can get the access to every book anytime and anywhere. And now: Welcome to **Max-EBooks**.
+Max-EBooks is the website made for those people who find their interests in reading. Books are shared publicly and you can freely choose which one fits you the most. You can publish your E-BOOKS immediately in just a single touch and share them with your friends. Our online library has an enormous mission to bring people together by using the human knowledge. You can get the access to every book anytime and anywhere. And now: Welcome to **Max-EBooks**.
 
  >We do not collect users' data and privacy is secured. 
  
